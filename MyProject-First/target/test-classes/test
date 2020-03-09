@@ -1,0 +1,18 @@
+----------ShipmentTyep--------
+Display Shipment page=
+http://localhost:2525/MyProject-First/ship/show
+
+Display all record=
+http://localhost:2525/MyProject-First/ship/all
+
+----------UomType---------------------
+Home:
+http://localhost:2525/MyProject-First/uom/home
+
+Display record:
+http://localhost:2525/MyProject-First/uom/all
+----------OrderMethodType---------------
+http://localhost:2525/MyProject-First/order/show
+
+----------WhUserType------------------
+http://localhost:2525/MyProject-First/whuser/show
